@@ -14,7 +14,8 @@
   <!--[if gt IE 8]><!-->
   <link rel="stylesheet" href="{{ "/css/grids-responsive-min.css" | absolute_url }}">
   <!--<![endif]-->
-  <link rel="stylesheet" href="{{ "/css/main.min.css" | absolute_url }}">
+  <!-- Import main.min.css last to ensure stylesheet priority -->
   <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/css/main.min.css" | absolute_url }}">
 </head>
 <body>
