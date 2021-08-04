@@ -1,0 +1,26 @@
+---
+navigation:
+  - title: Home
+    url: "/"
+    # target: true
+    # children:
+
+  - title: About
+    url: "/about/"
+    # target: true
+    # children:
+
+  - title: Posts
+    url: "/posts/"
+    # target: true
+    # children:
+
+  - title: Projects
+    url: "/projects/"
+    # target: true
+    # children:
+    
+  - title: Contact
+    url: "/contact/"
+    # target: true
+    # children:

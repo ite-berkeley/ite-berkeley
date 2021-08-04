@@ -11,13 +11,13 @@
       </h1>
       <nav class="main-nav overflow-x-auto">
         <ul class="navigation flex flex-no-wrap md:block float-left md:float-right pb-4 md:pb-0">
-          <li class="{% if url == '/' %}current{% endif %}">
+          <!-- <li class="{% if url == '/' %}current{% endif %}">
             <a href="{{ "/" | absolute_url }}">
               Home
             </a>
-          </li>
-          {% for link in site.menus.navigation %}
-          <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
+          </li> -->
+          {% for link in site.data.menus.navigation %}
+          <li class="{% if link.children %}nested {% endif %}{% if page.url == link.url %}current{% endif %}">
             {% if link.children %}
             <ul class="first-level">
               {% for child in link.children %}
