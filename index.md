@@ -3,10 +3,7 @@ title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Transportation Team at Berkeley
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
@@ -17,10 +14,10 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: ''
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  Transportation Team at Berkeley
 
-  Ora et Labora
+  ITE at Berkeley
 hero_button:
   text: Learn more
   href: "/about"
