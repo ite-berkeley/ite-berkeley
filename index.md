@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2021/08/04/cedric-letsch-rrcgunuc-fu-unsplash.jpg"
 layout: landing-page
 heading: Transportation Team at Berkeley
 partners: []
