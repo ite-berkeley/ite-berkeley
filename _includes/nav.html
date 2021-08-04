@@ -11,6 +11,11 @@
       </h1>
       <nav class="main-nav">
         <ul class="navigation">
+          <li class="{% if url == '/' %}current{% endif %}">
+            <a href="{{ "/" | absolute_url }}">
+              Home
+            </a>
+          </li>
           {% for link in site.menus.navigation %}
           <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
             {% if link.children %}
