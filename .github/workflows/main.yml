@@ -23,3 +23,13 @@ jobs:
 
     # Standard usage
     - uses:  lemonarc/jekyll-action@1.0.0
+  
+    - uses: hengkx/ssh-deploy@v1.0.1
+      env:
+        HOST: ${{ secrets.DEPLOY_HOST }}
+        USERNAME: ${{ secrets.DEPLOY_USERNAME }}
+        PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
+        PORT: ${{ secrets.DEPLOY_PORT }}
+        SOURCE: '/github/workspace/_site/'
+        TARGET: ${{ secrets.DEPLOY_DEST_PATH }}
+        AFTER_COMMAND: 'npm run stop && npm install --production && npm run start'
