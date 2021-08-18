@@ -30,6 +30,6 @@ jobs:
         USERNAME: ${{ secrets.DEPLOY_USERNAME }}
         PASSWORD: ${{ secrets.DEPLOY_PASSWORD }}
         PORT: ${{ secrets.DEPLOY_PORT }}
-        SOURCE: '/github/workspace/_site/'
+        SOURCE: '/github/workspace/_site'
         TARGET: ${{ secrets.DEPLOY_DEST_PATH }}
         AFTER_COMMAND: 'npm run stop && npm install --production && npm run start'
