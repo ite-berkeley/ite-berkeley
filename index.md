@@ -34,7 +34,7 @@ textline: Transportation Team at Berkeley
 hero_button:
   text: Join our Discord
   href: https://discord.gg/Jd2Zyv3wgy
-show_news: true
+show_news: false
 show_staff: false
 
 ---
