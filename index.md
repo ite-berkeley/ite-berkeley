@@ -32,13 +32,12 @@ services:
 sub_heading: ''
 textline: Transportation Team at Berkeley
 hero_button:
-  text: Learn more
-  href: "/about"
+  text: Join our Discord
+  href: https://discord.gg/Jd2Zyv3wgy
 show_news: true
 show_staff: false
 
 ---
-
 # Join Us
 
 Our team welcomes all interested students! We welcome more than just civil engineers; our current team consists of members from a variety of other disciplines.
