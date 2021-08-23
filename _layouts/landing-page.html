@@ -7,6 +7,8 @@ layout: default
 	e.g index.md and about.md
 {% endcomment %}
 
+{% include services.html %}
+
 {% assign stripped_content = content | strip_newlines %}
 {% if content and stripped_content != "" %}
 <section class="about">
@@ -19,8 +21,6 @@ layout: default
 	</div>
 </section>
 {% endif %}
-
-{% include services.html %}
 
 {% include news.html %}
 
