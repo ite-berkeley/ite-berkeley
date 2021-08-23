@@ -2,12 +2,11 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: About Transportation Team at Berkeley
+sub_heading: Since 2016
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
-publish_date: 2017-12-01 04:00:00 +0000
+textline: Transportation is love. Transportation is life. Welcome to the Cal Transportation Team where we will learn how to improve the world's transportation systems together!
+publish_date: 2021-08-23 00:00:00 +0000
 show_staff: true
 menu:
   navigation:
@@ -18,6 +17,6 @@ menu:
     weight: 3
 ---
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
+Cal Transportation Team was founded in 2016. We compete in the ASCE Mid-Pacific Transportation competition, planning and designing a solution to a given prompt. The team has many members from different backgrounds working on planning, operations, and design of transportation systems. The team also runs a DeCal class so students can get academic credit for their work.
 
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+
