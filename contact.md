@@ -12,9 +12,19 @@ menu:
 
 ---
 ## Course Schedule
+
 Transportation Team at Berkeley holds a weekly seminar.
 
-More info coming soon.
+Transpo
+
+CE 98, Section 007; 28264
+
+CE 198, Section 007; 28258
+
+2 Units
+
+Meetings: M 5-7 pm: DAVIS 534
 
 ## Contact Information
+
 {% include address.html %}
