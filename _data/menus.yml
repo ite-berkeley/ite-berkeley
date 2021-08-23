@@ -10,15 +10,15 @@ navigation:
     # target: true
     # children:
 
-  - title: Posts
-    url: "/posts/"
-    # target: true
-    # children:
+  # - title: Posts
+  #   url: "/posts/"
+  #   # target: true
+  #   # children:
 
-  - title: Projects
-    url: "/projects/"
-    # target: true
-    # children:
+  # - title: Projects
+  #   url: "/projects/"
+  #   # target: true
+  #   # children:
     
   - title: Contact
     url: "/contact/"
