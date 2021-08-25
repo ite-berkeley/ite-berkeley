@@ -32,8 +32,8 @@ services:
 sub_heading: ''
 textline: Transportation Team at Berkeley
 hero_button:
-  text: Join our Discord
-  href: https://discord.gg/Jd2Zyv3wgy
+  text: Interest Form >
+  href: https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform
 show_news: false
 show_staff: false
 
@@ -55,10 +55,22 @@ Joining Cal Transportation team provides valuable connections within the transpo
   <img src="/uploads/2021/08/04/DSC_0761.jpg" alt="Transportation Team at Berkeley, giving a presentation in front of transit professionals during a competition with other universities" />
 </div>
 
-### Interested?
+<br>
 
-Come join our Discord!
+# Interested?
+
+### Fill out our interest form below!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform" title="Google Form, Cal ITE x Transpo Interest Form" class="w-full border-none" style="height:90vh;">
+  Your browser is blocking this form... <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform">Fill out the interest form here ></a>
+</iframe>
+
+<br>
+
+### Social Media
+
+Connect with us on our Discord:
 
 <a href="https://discord.gg/Jd2Zyv3wgy">
-  <button class="px-6 py-4 bg-blue-600 hover:bg-blue-500 text-gray-200 rounded">Join Discord ></button>
+  <button class="px-6 py-4 bg-blue-600 hover:bg-blue-600 text-gray-200 rounded">Join Discord ></button>
 </a>

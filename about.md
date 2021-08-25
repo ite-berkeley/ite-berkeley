@@ -19,4 +19,15 @@ menu:
 
 Cal Transportation Team was founded in 2016. We compete in the ASCE Mid-Pacific Transportation competition, planning and designing a solution to a given prompt. The team has many members from different backgrounds working on planning, operations, and design of transportation systems. The team also runs a DeCal class so students can get academic credit for their work.
 
+## Course Schedule
 
+Transportation Team at Berkeley holds a weekly seminar.
+
+Fall 2021 schedule:
+
+```
+CE 98, Section 007; 28264
+CE 198, Section 007; 28258
+2 Units
+Meetings: M 5-7 pm: DAVIS 534
+```
