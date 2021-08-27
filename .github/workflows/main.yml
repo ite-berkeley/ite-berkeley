@@ -22,8 +22,7 @@ jobs:
           ${{ runner.os }}-gems-
 
     # Standard usage
-    - name: jekyll-action
-      uses: lemonarc/jekyll-action@1.0.0
+    - uses: lemonarc/jekyll-action@1.0.0
 
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@4.1.4
