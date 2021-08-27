@@ -32,7 +32,7 @@ jobs:
         
     - uses: garygrossgarten/github-action-ssh@release
       with:
-        command: cd public_html && git clone --single-branch --branch deploy https://github.com/Transpo-Berkeley/transpo-berkeley.github.io.git
+        command: cd public_html && git clone --single-branch --branch deploy ${{ secrets.REPO_URL }}
         host: ${{ secrets.DEPLOY_HOST }}
         username: ${{ secrets.DEPLOY_USERNAME }}
         password: ${{ secrets.DEPLOY_PASSWORD }}
