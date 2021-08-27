@@ -71,6 +71,4 @@ Joining Cal Transportation team provides valuable connections within the transpo
 
 Connect with us on our Discord:
 
-<a href="https://discord.gg/Jd2Zyv3wgy">
-  <button class="px-6 py-4 bg-blue-600 hover:bg-blue-600 text-gray-200 rounded">Join Discord ></button>
-</a>
+[Join Discord >](https://discord.gg/Jd2Zyv3wgy){:.pure-button .button-success .button-xlarge}

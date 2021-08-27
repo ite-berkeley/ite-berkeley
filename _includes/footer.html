@@ -28,19 +28,16 @@
         </div>
 	</div>
 	<div class="copyright">
-        <p>
+        <p class="pt-8">
             &copy;{{ 'now' | date: "%Y" }} {{ site.title }} - All Rights Reserved
-		
-		<br><br>
-		<b>We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</b>
-		<br>
+		</p>
+		<p class="font-bold py-4 text-md px-2">We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</p>
 		<a href="https://www.ocf.berkeley.edu">
 		    <img src="https://www.ocf.berkeley.edu/hosting-logos/ocf-hosted-penguin-dark.svg"
 			alt="Hosted by the OCF" style="border: 0;margin:0 auto;padding-top:20px;" />
 		</a>
-		<br>
-		
-			<a href="{{ "/admin" | absolute_url }}">Site Admin</a>
+		<p class="py-8">
+			<a href="{{ "/wp-admin" | absolute_url }}">Site Admin</a>
 		</p>
 	</div>
 </footer>
