@@ -5,6 +5,8 @@ layout: landing-page
 heading: Transportation Team at Berkeley
 partners:
 - "/uploads/2021/08/04/uc-logo-sm.png"
+- "/uploads/2021/08/09/asuc_2color_lightbackground-1-768x960.png"
+- "/uploads/2021/08/09/esc.jpg"
 services:
 - heading: Planning
   description: The modeling and analysis of travel demand patterns based on land use
@@ -59,9 +61,15 @@ Joining Cal Transportation team provides valuable connections within the transpo
 
 # Interested?
 
+**Fall 2021**  
+CE 98, Section 007; 28264  
+CE 198, Section 007; 28258  
+2 Units  
+Meetings: M 5-7 pm: DAVIS 534
+
 ### Fill out our interest form below!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform" title="Google Form, Cal ITE x Transpo Interest Form" class="w-full border-none" style="height:90vh;">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform" title="Google Form, Cal ITE x Transpo Interest Form" class="w-full border-none" style="height:80vh;">
   Your browser is blocking this form... <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform">Fill out the interest form here ></a>
 </iframe>
 

@@ -24,3 +24,8 @@ navigation:
     url: "/contact/"
     # target: true
     # children:
+
+  - title: Cal ITE
+    url: "https://ite.berkeley.edu"
+    # target: true
+    # children:
