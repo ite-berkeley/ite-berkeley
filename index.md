@@ -35,7 +35,7 @@ sub_heading: ''
 textline: Transportation Team at Berkeley
 hero_button:
   text: Interest Form >
-  href: https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform
+  href: '#interested'
 show_news: false
 show_staff: false
 
