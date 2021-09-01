@@ -1,0 +1,23 @@
+{% if page.img-gallery %}
+<link type="text/css" rel="stylesheet" href="https://unpkg.com/lightgallery@2/css/lightgallery-bundle.css" />
+<script src="https://unpkg.com/lightgallery@2/lightgallery.umd.js"></script>
+<script src="https://unpkg.com/lightgallery@2/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+<script src="https://unpkg.com/lightgallery@2/plugins/zoom/lg-zoom.umd.js"></script>
+<script src="https://unpkg.com/lightgallery@2/lightgallery.min.js"></script>
+
+<div id="lightgallery" class="grid grid-cols-{{ page.img-gallery.columns | divided_by: 2 | default: 2 }} sm:grid-cols-{{ page.img-gallery.columns | default: 3 }} gap-2 sm:gap-3">
+  {% for imgUrl in page.img-gallery.images %}
+  <a href="{{ imgUrl }}" class="rounded-lg">
+    <img alt="{{ imgUrl }}" src="{{ imgUrl }}" class="h-full object-cover" />
+  </a>
+  {% endfor %}
+</div>
+
+<script type="text/javascript">
+  lightGallery(document.getElementById('lightgallery'), {
+    plugins: [lgZoom, lgThumbnail],
+    speed: 500,
+    thumbnail: true,
+  });
+</script>
+{% endif %}

@@ -1,0 +1,89 @@
+{% comment %}
+  Image carousel for the homepage
+{% endcomment %}
+
+<!-- import CSS -->
+<link rel="stylesheet" href="/css/element-ui_theme-chalk.css">
+<!-- import Vue before Element -->
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<!-- import JavaScript -->
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+
+<div id="img-carousel">
+  <div id="image-container" class="relative">
+    <el-carousel :autoplay="true">
+      <el-carousel-item v-for="carouitem in imageArray" :key="carouitem.url">
+        <img :src="carouitem.url" alt="image"></img>
+      </el-carousel-item>
+    </el-carousel>
+    <div id="image-container" class="absolute top-0 z-10 flex flex-wrap items-center justify-center content-center">
+      <div class="w-full text-center">
+        <h1 class="font-bold text-4xl sm:text-5xl text-white">{{ page.heading | default: page.title }}</h1>
+        {% if page.sub_heading and page.sub_heading != "" %}
+          <h2 class="pt-2 sm:pt-3 font-bold text-lg sm:text-xl text-white">{{ page.sub_heading }}</h2>
+        {% endif %}
+      </div>
+      {% if page.hero_button %}
+      <div class="pt-6">
+        <a href="{{ page.hero_button.href | absolute_url }}" class="pure-button button-success button-xlarge" title="{{ page.hero_button.text }}">
+          {{ page.hero_button.text }}&nbsp;<i class="fa fa-chevron-right"></i>
+        </a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<script>
+  var app = new Vue({
+    el: '#img-carousel',
+    data: {
+      imageArray:[
+        {% for imageItem in page.img-carousel %}
+        {
+          url:'{{ imageItem }}',
+        },
+        {% endfor %}
+      ],
+    }
+  })
+</script>
+
+<style>
+#image-container {
+  width: 100%;
+}
+
+#image-container, .el-carousel__container {
+  min-height: 525px;
+}
+@media only screen and (max-width: 800px) {
+  #image-container, .el-carousel__container {
+    min-height: 400px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #image-container, .el-carousel__container {
+    min-height: 300px;
+  }
+}
+
+
+#image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  filter: brightness(80%);
+}
+
+/* element-ui theme-chalk */
+
+</style>
+
+<!-- Source: https://codepen.io/LorneZhang/pen/GRJZPMV -->

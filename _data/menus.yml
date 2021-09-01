@@ -5,8 +5,8 @@ navigation:
     # target: true
     # children:
 
-  - title: About
-    url: "/about/"
+  # - title: About
+  #   url: "/about/"
     # target: true
     # children:
 
@@ -25,7 +25,7 @@ navigation:
     # target: true
     # children:
 
-  - title: Cal ITE
-    url: "https://ite.berkeley.edu"
+  - title: Transportation Team
+    url: "https://transpo.berkeley.edu"
     # target: true
     # children:

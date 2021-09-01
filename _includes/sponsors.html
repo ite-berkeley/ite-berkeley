@@ -1,0 +1,15 @@
+{% if page.sponsors %}
+<h1>Sponsors</h1>
+{% for spcat in page.sponsors %}
+  <div class="{{ spcat.card }} my-2">
+    <h6 class="pt-0 pb-2 md:pb-4 text-xl font-bold">{{ spcat.title }}</h6>
+    <div class="grid {{ spcat.classes }} gap-4 sm:gap-6">
+      {% for spcatspon in spcat.sponsorlist %}
+      <a href="{{ spcatspon.url }}">
+        <img src="{{ spcatspon.image }}" alt="{{ spcatspon.name }}" title="{{ spcatspon.name }}" />
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+{% endfor %}
+{% endif %}
