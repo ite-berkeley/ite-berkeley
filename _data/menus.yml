@@ -5,8 +5,13 @@ navigation:
     # target: true
     # children:
 
-  # - title: About
-  #   url: "/about/"
+  - title: About
+    url: "/about/"
+    # target: true
+    # children:
+
+  - title: Our Team
+    url: "/team/"
     # target: true
     # children:
 
@@ -20,12 +25,17 @@ navigation:
   #   # target: true
   #   # children:
     
-  - title: Contact
+  - title: Contact Us
     url: "/contact/"
     # target: true
     # children:
 
-  - title: Transportation Team
-    url: "https://transpo.berkeley.edu"
+  # - title: Transpo Team
+  #   url: "https://transpo.berkeley.edu"
+  #   # target: true
+  #   # children:
+
+  - title: Join Cal ITE
+    url: "/interest-form/"
     # target: true
     # children:

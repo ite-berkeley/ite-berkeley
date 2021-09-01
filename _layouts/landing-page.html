@@ -9,6 +9,8 @@ layout: default
 
 {% include services.html %}
 
+{% include staff.html %}
+
 {% assign stripped_content = content | strip_newlines %}
 {% if content and stripped_content != "" %}
 <section class="about">
@@ -25,5 +27,3 @@ layout: default
 {% include news.html %}
 
 {% include partners.html %}
-
-{% include staff.html %}

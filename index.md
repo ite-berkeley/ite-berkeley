@@ -93,12 +93,12 @@ services:
 - description: Participate in resume workshops, talks/panels, and lunch meetings with professionals. Meet students from other universities in the Western ITE district during the annual meeting and network with industry leaders.
   heading: Professional Events
   icon: "/uploads/2021/08/09/533216.png"
-- description: Cal Transportation Team competes in the ASCE Mid-Pacific Transportation competition, planning and designing a solution to a given prompt. The team also runs a DeCal class so students can get academic credit for their work.
+- description: Cal Transportation Team competes in the ASCE Mid-Pacific Transportation competition, planning and designing a solution to a given prompt. The team also runs a DeCal class so students can get academic credit for their work. <br><br><a href="https://transpo.berkeley.edu"><button class="pure-button button-success">Learn more</button></a>
   heading: Transportation Team
   icon: "/uploads/2021/08/09/operations-icon-flat-style-white-isolated-symbol-black-your-web-site-design-app-ui-simple-process-vector-illustration-156422564.jpg"
 hero_button:
   text: Interest Form >
-  href: '#interested'
+  href: '/interest-form/'
 show_news: false
 show_staff: false
 
@@ -116,14 +116,16 @@ show_staff: false
 
 ### Fill out our interest form below!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform" title="Google Form, Cal ITE x Transpo Interest Form" class="w-full border-none" style="height:80vh;">
-  Your browser is blocking this form... <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhELOk5trfKJTqR_W2K2vHwdGsAD7cc-BQhjgKOgY3wv4FMg/viewform">Fill out the interest form here ></a>
-</iframe>
+[Fill out our Interest Form >](/interest-form/){:.pure-button .button-success .button-xlarge}
 
 <br>
 
 ### Social Media
 
-Connect with us on our Discord:
+Connect with us on LinkedIn:
+
+[LinkedIn >](https://www.linkedin.com/company/cal-ite/){:.pure-button .button-success .button-xlarge}
+
+Join our Discord:
 
 [Join Discord >](https://discord.gg/Jd2Zyv3wgy){:.pure-button .button-success .button-xlarge}
