@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2021/08/04/cedric-letsch-rrcgunuc-fu-unsplash.jpg"
+banner_image: ""
 img-carousel:
   - "/uploads/2021/08/31/withposter.jpg"
   - "/uploads/2021/08/31/DSC_0415.jpg"
