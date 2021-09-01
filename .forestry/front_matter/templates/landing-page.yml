@@ -41,6 +41,30 @@ fields:
     required: false
     schema:
       format: markdown
+- name: sponsors
+  label: Sponsors
+  type: field_group_list
+  fields:
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  - name: card
+    label: Card style classes
+    type: text
+    hidden: false
+    default: ''
+  - name: classes
+    label: Column classes
+    type: text
+    hidden: false
+    default: ''
+  - name: sponsorlist
+    label: List of Sponsors
+    type: text
+    hidden: false
+    default: ''
 - name: services
   label: Services
   type: field_group_list
