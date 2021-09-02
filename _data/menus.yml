@@ -14,26 +14,11 @@ navigation:
     url: "/team/"
     # target: true
     # children:
-
-  # - title: Posts
-  #   url: "/posts/"
-  #   # target: true
-  #   # children:
-
-  # - title: Projects
-  #   url: "/projects/"
-  #   # target: true
-  #   # children:
     
   - title: Contact Us
     url: "/contact/"
     # target: true
     # children:
-
-  # - title: Transpo Team
-  #   url: "https://transpo.berkeley.edu"
-  #   # target: true
-  #   # children:
 
   - title: Join Cal ITE
     url: "/interest-form/"
