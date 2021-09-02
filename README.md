@@ -1,3 +1,3 @@
-# Transpo-Berkeley
+# ITE-Berkeley
 
-https://transpo.berkeley.edu
+https://ite.berkeley.edu
