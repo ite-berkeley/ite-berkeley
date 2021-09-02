@@ -1,13 +1,13 @@
 source "https://rubygems.org"
 
-# gem "jekyll", "~> 4.0"
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.0"
+# gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-feed"
-  # gem "jekyll-menus"
-  # gem "jekyll-tagging"
-  # gem "jekyll-archives"
+  gem "jekyll-menus"
+  gem "jekyll-tagging"
+  gem "jekyll-archives"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

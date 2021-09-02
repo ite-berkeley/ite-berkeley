@@ -21,9 +21,9 @@ sub_heading: "Institute of Transportation Engineers @ UC Berkeley"
 textline: "We are the student chapter of the Institute of Transportation Engineers at the University of California, Berkeley.<br><br>We provide opportunities for interested students to connect with transportation professionals in both public and private sectors."
 services:
 - heading: Partners and Affiliates
-  description: Cal ITE hosts regular technical events featuring local companies to bring opportunities to students. These events may also include office visits and field trips around the Bay Area.
+  description: Cal ITE hosts regular technical events featuring local companies to bring opportunities to students. These events may also include office visits and field trips around the Bay Area.<br><br><a href="/sponsors/"><button class="pure-button button-success">Our Sponsors</button></a>
   icon: "/uploads/2021/08/09/itsicon310x310a.png"
-- description: Participate in resume workshops, talks/panels, and lunch meetings with professionals. Meet students from other universities in the Western ITE district during the annual meeting and network with industry leaders.
+- description: Participate in resume workshops, talks/panels, and lunch meetings with professionals. Meet students from other universities in the Western ITE district during the annual meeting and network with industry leaders.<br><br><a href="https://linkedin.com/company/cal-ite/" target="_blank" rel="noopener"><button class="pure-button button-success">Follow us on LinkedIn</button></a>
   heading: Professional Events
   icon: "/uploads/2021/08/09/533216.png"
 - description: Cal Transportation Team competes in the ASCE Mid-Pacific Transportation competition, planning and designing a solution to a given prompt. The team also runs a DeCal class so students can get academic credit for their work. <br><br><a href="https://transpo.berkeley.edu"><button class="pure-button button-success">Learn more</button></a>

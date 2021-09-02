@@ -1,4 +1,8 @@
 ---
+social_media:
+  - name: "Follow us on LinkedIn"
+    icon: "/uploads/2021/08/31/LI-In-Bug.png"
+    url: "https://linkedin.com/company/cal-ite/"
 phone: "+1 xxx xxx xxx"
 email: x@x.x
 address_1: Davis Hall
@@ -7,4 +11,3 @@ city: Berkeley
 state: CA
 postal_code: 94720
 country: US
-# twitter: 

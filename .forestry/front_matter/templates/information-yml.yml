@@ -2,6 +2,27 @@
 label: Contact Information
 hide_body: true
 fields:
+- name: social_media
+  label: Social Media Icons
+  type: field_group_list
+  hidden: false
+  default: ''
+  fields:
+    - name: name
+      label: Hover Text
+      type: text
+      hidden: false
+      default: ''
+    - name: icon
+      label: Icon
+      type: file
+      hidden: false
+      default: ''
+    - name: url
+      label: Website
+      type: text
+      hidden: false
+      default: ''
 - name: email
   label: Email
   type: text
@@ -39,11 +60,6 @@ fields:
   default: ''
 - name: country
   label: Country
-  type: text
-  hidden: false
-  default: ''
-- name: twitter
-  label: Twitter
   type: text
   hidden: false
   default: ''

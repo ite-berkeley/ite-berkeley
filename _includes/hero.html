@@ -1,4 +1,4 @@
-{% if page.banner_image and page.banner_image != "" %}
+{% if page.banner_image and page.banner_image != "" or page.img-carousel %}
 	{% if page.img-carousel %}
 		{% include img-carousel.html %}
 	{% else %}
