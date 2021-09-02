@@ -19,8 +19,3 @@ navigation:
     url: "/contact/"
     # target: true
     # children:
-
-  - title: Join Cal ITE
-    url: "/interest-form/"
-    # target: true
-    # children:

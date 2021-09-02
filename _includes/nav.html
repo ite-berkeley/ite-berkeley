@@ -10,7 +10,7 @@
         <a href="{{ "/" | absolute_url }}">{{ site.name }}</a>
       </h1>
       <nav class="main-nav overflow-x-auto">
-        <ul class="navigation flex flex-no-wrap md:block float-left md:float-right pb-4 md:pb-0">
+        <ul class="navigation flex flex-no-wrap float-left md:float-right pb-4 md:pb-0 items-center">
           <!-- <li class="{% if url == '/' %}current{% endif %}">
             <a href="{{ "/" | absolute_url }}">
               Home
@@ -49,6 +49,11 @@
                 </a>
           </li>
           {% endfor %}
+          <li>
+            <a href="/join/">
+              <button class="pure-button button-success font-bold">JOIN</button>
+            </a>
+          </li>
         </ul>
     </nav>
   </div>

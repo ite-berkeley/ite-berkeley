@@ -8,7 +8,7 @@
 <div id="lightgallery" class="grid grid-cols-{{ page.img-gallery.columns | divided_by: 2 | default: 2 }} sm:grid-cols-{{ page.img-gallery.columns | default: 3 }} gap-2 sm:gap-3">
   {% for imgUrl in page.img-gallery.images %}
   <a href="{{ imgUrl }}" class="rounded-lg">
-    <img alt="{{ imgUrl }}" src="{{ imgUrl }}" class="h-full object-cover" />
+    <img alt="{{ imgUrl }}" src="{{ imgUrl }}" class="w-full h-20 sm:h-36 object-cover" />
   </a>
   {% endfor %}
 </div>
