@@ -22,7 +22,6 @@ sections:
 - type: document
   path: _data/sponsors.yml
   label: Sponsors
-  match: "**/*"
 - type: document
   path: _data/information.yml
   label: Contact Information
