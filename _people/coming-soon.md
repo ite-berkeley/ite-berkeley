@@ -9,6 +9,7 @@ sub_heading: President, Cal Transportation Team
 email: president@transpo.berkeley.edu
 linkedin: ''
 layout: person
+published: false
 
 ---
 Coming soon!
