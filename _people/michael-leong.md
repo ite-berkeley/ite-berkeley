@@ -7,6 +7,5 @@ sub_heading: President, Transportation Team
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
