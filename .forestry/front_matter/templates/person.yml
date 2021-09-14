@@ -35,3 +35,6 @@ fields:
   type: text
   hidden: true
   default: person
+pages:
+- _people/garett-davis.md
+- _people/michael-leong.md
