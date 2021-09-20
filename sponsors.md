@@ -7,4 +7,24 @@ publish_date: 2021-08-31 00:00:00 +0000
 
 # Sponsor Cal ITE
 
-Coming soon! For now, [contact us if you're interested in sponsoring us!](/contact/)
+<object
+  data="{{ site.data.sponsors.sponsortiers }}#toolbar=0"
+  type="application/pdf"
+  width="100%"
+  class="mb-4"
+  style="height:130vw;max-height:900px;">
+<canvas id="pdfviewer" markdown="1" style="width:100%;height:130vw;max-height:900px;">
+
+Your browser doesn't support pdf's. Scroll down for download links.
+
+</canvas>
+</object>
+
+[Open in Google PDF Viewer](https://docs.google.com/viewerng/viewer?url={{ site.url }}{{ site.baseurl }}{{ site.data.sponsors.sponsortiers }}){: .jtbutton target="_blank" rel="noopener"}
+[Download]({{ site.data.sponsors.sponsortiers }}){: .jtbutton}
+
+# Current Sponsors
+
+{% include sponsors.html %}
+
+[Contact us if you have any questions!](/contact/)

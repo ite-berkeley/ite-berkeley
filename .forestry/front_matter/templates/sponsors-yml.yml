@@ -41,5 +41,10 @@ fields:
       type: text
       hidden: false
       default: ''
+- name: sponsortiers
+  label: Sponsor Tier List
+  type: file
+  hidden: false
+  default: ''
 pages:
 - _data/sponsors.yml
