@@ -43,6 +43,8 @@ show_staff: false
 
 {% include sponsors.html %}
 
+<p class="font-bold italic py-2">Want to become a sponsor? <a href="/sponsors/">Reach out to us!</a></p>
+
 <br>
 
 # Interested?
