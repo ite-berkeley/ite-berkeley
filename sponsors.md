@@ -20,11 +20,10 @@ Your browser doesn't support pdf's. Scroll down for download links.
 </canvas>
 </object>
 
-[Open in Google PDF Viewer](https://docs.google.com/viewerng/viewer?url={{ site.url }}{{ site.baseurl }}{{ site.data.sponsors.sponsortiers }}){: .jtbutton target="_blank" rel="noopener"}
-[Download]({{ site.data.sponsors.sponsortiers }}){: .jtbutton}
+[Download]({{ site.data.sponsors.sponsortiers }}){: .pure-button .button-success .button-xlarge}
 
-# Current Sponsors
+<br>
 
 {% include sponsors.html %}
 
-[Contact us if you have any questions!](/contact/)
+**[Contact us if you have any questions!](/contact/)**
