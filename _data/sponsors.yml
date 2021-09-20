@@ -1,68 +1,69 @@
 ---
 sponsors:
-  - title: "CA High Speed Rail Level"
-    card: "p-4 sm:p-6 md:p-8 bg-yellow-200 rounded-lg"
-    classes: "grid-cols-2 sm:grid-cols-3"
-    sponsorlist:
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-  - title: "SF Muni Level"
-    card: "p-4 sm:p-6 md:p-8 bg-gray-300 rounded-lg"
-    classes: "grid-cols-2 sm:grid-cols-4"
-    sponsorlist:
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-  - title: "AC Transit Level"
-    card: "p-4 sm:p-6 md:p-8 bg-green-100 rounded-lg"
-    classes: "grid-cols-3 sm:grid-cols-5"
-    sponsorlist:
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
-      - name: Transpo
-        image: https://transpo.berkeley.edu/img/logo-white.png
-        url: https://transpo.berkeley.edu
+- title: CA High Speed Rail Level
+  card: p-4 sm:p-6 md:p-8 bg-yellow-200 rounded-lg
+  classes: grid-cols-2 sm:grid-cols-3
+  sponsorlist:
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+- title: SF Muni Level
+  card: p-4 sm:p-6 md:p-8 bg-gray-300 rounded-lg
+  classes: grid-cols-2 sm:grid-cols-4
+  sponsorlist:
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+- title: AC Transit Level
+  card: p-4 sm:p-6 md:p-8 bg-green-100 rounded-lg
+  classes: grid-cols-3 sm:grid-cols-5
+  sponsorlist:
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+  - name: Transpo
+    image: https://transpo.berkeley.edu/img/logo-white.png
+    url: https://transpo.berkeley.edu
+sponsortiers: "/uploads/2021/09/20/cal-ite-sponsorship-2021-22.pdf"
