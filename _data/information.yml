@@ -1,13 +1,16 @@
 ---
 social_media:
-  - name: "Follow us on LinkedIn"
-    icon: "/uploads/2021/08/31/LI-In-Bug.png"
-    url: "https://linkedin.com/company/cal-ite/"
+- name: Our Discord server!
+  icon: "/uploads/2021/09/21/discord-logo-white.png"
+  url: transpo.berkeley.edu/discord
+- name: Follow us on LinkedIn
+  icon: "/uploads/2021/08/31/LI-In-Bug.png"
+  url: https://linkedin.com/company/cal-ite/
 phone: "+1 xxx xxx xxx"
 email: x@x.x
 address_1: Davis Hall
-address_2: 'University of California, Berkeley'
+address_2: University of California, Berkeley
 city: Berkeley
 state: CA
-postal_code: 94720
+postal_code: "94720"
 country: US
