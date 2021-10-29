@@ -41,6 +41,11 @@ fields:
       type: text
       hidden: false
       default: ''
+    - name: dark
+      type: boolean
+      label: Logo is all white?
+      description: Adds a dark background to the logo
+      default: 'false'
 - name: sponsortiers
   label: Sponsor Tier List
   type: file
