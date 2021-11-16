@@ -7,6 +7,12 @@ publish_date: 2021-08-31 00:00:00 +0000
 
 # Sponsor Cal ITE
 
+We're always looking for sponsorship opportunities! If you would like to connect your company/organization with our students, check out our sponsorship tiers below:
+
+[Contact Us](/contact){: .pure-button .button-success .button-xlarge}
+
+<br>
+
 <object
   data="{{ site.data.sponsors.sponsortiers }}#toolbar=0"
   type="application/pdf"
@@ -20,7 +26,7 @@ Your browser doesn't support pdf's. Scroll down for download links.
 </canvas>
 </object>
 
-[Download]({{ site.data.sponsors.sponsortiers }}){: .pure-button .button-success .button-xlarge}
+[Download Flyer]({{ site.data.sponsors.sponsortiers }}){: .pure-button .button-success .button-xlarge}
 
 <br>
 

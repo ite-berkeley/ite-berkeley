@@ -6,7 +6,7 @@
     <div class="grid {{ spcat.classes }} gap-4 justify-center justify-items-center place-items-center">
       {% for spcatspon in spcat.sponsorlist %}
       <a href="{{ spcatspon.url }}"{% if spcatspon.dark == true %} class="p-2 bg-gray-700"{% endif %}>
-        <img src="{{ spcatspon.image }}" alt="{{ spcatspon.name }}" title="{{ spcatspon.name }}" class="max-h-20 sm:max-h-24 md:max-h-36" />
+        <img src="{{ spcatspon.image }}" alt="{{ spcatspon.name }}" title="{{ spcatspon.name }}" class="max-h-24 sm:max-h-30 md:max-h-32" />
       </a>
       {% endfor %}
     </div>

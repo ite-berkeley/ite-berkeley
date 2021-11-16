@@ -14,8 +14,8 @@ sponsors:
     image: /uploads/2021/09/21/logo-rse.webp
     url: https://rsecorp.com
 - title: SF Muni Level
-  card: p-4 sm:p-6 md:p-8 bg-gray-300 rounded-lg
-  classes: grid-cols-3 md:grid-cols-4 gap-4 sm:gap-8 md:gap-12 items-center justify-center
+  card: p-6 sm:p-6 md:p-8 bg-gray-200 rounded-lg
+  classes: grid-cols-3 md:grid-cols-4 gap-6 sm:gap-8 items-center justify-center
   sponsorlist:
   - name: CHS Consulting
     image: /uploads/2021/09/21/logo-chs.png
@@ -27,8 +27,8 @@ sponsors:
     image: /uploads/2021/09/21/logo-kittelson.png
     url: https://www.kittelson.com/
 - title: AC Transit Level
-  card: p-4 sm:p-6 md:p-8 bg-green-100 rounded-lg
-  classes: grid-cols-4 sm:grid-cols-5 md:grid-cols-6 sm:gap-6 items-center justify-center
+  card: p-6 sm:p-6 md:p-8 bg-green-100 rounded-lg
+  classes: grid-cols-5 md:grid-cols-6 gap:10 md:gap-12 items-center justify-center
   sponsorlist:
   - name: DKS
     image: /uploads/2021/09/21/logo-dks.png
