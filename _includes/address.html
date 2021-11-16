@@ -15,5 +15,6 @@
   <br />
   {% if info.phone %}<a href="tel:{{ info.phone }}" title="{{ info.phone }}">{{ info.phone }}</a><br />{% endif %}
   {% if info.email %}<a href="mailto:{{ info.email }}" title="{{ info.email }}">{{ info.email }}</a>{% endif %}
+  {% if info.notes %}<a href="{{ info.notes }}" title="{{ info.notes }}">{{ info.notes }}</a>{% endif %}
 </p>
 {% endif %}

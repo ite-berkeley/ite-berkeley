@@ -13,7 +13,7 @@
         </div>
         <div class="footer-col pure-u-1 pure-u-md-1-4">
             <h3>Social Media</h3>
-            <div class="grid grid-cols-3 gap-2 pr-12">
+            <div class="grid grid-cols-4 gap-6 p-2 items-center justify-center justify-items-center">
             {% for mediaitem in site.data.information.social_media %}
                 <a href="{{ mediaitem.url | absolute_url }}" target="_blank" rel="noopener">
                     <img src="{{ mediaitem.icon | absolute_url }}" class="w-full object-fit" alt="{{ mediaitem.name }}" title="{{ mediaitem.name }}" />
