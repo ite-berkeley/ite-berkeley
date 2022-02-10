@@ -8,8 +8,8 @@ sections:
   path: ''
   label: Redirects
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  match: "*"
+  new_doc_ext: md
   templates:
   - redirect
 - type: heading
