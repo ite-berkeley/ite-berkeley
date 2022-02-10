@@ -11,13 +11,15 @@ fields:
 - type: text
   name: metatitle
   label: Title
-  description: "Shows in link previews you send on Facebook, Discord, etc."
-  default: ""
+  description: Shows in link previews you send on Facebook, Discord, etc.
+  default: ''
   config:
     required: false
 - type: text
   name: href
   label: To
-  description: "Redirects to ... (ie. forms.google.com)"
+  description: Redirects to ... (ie. forms.google.com)
   config:
     required: true
+pages:
+- sign-in.md
