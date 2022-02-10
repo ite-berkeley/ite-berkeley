@@ -18,7 +18,7 @@ fields:
 - type: text
   name: href
   label: To
-  description: Redirects to ... (ie. forms.google.com)
+  description: Redirects to ... (ie. https://forms.google.com)
   config:
     required: true
 pages:
