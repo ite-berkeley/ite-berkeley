@@ -4,16 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: _data
-  label: Contact Info
-  create: none
-  match: information.yml
-  templates:
-  - information-yml
-- type: document
-  path: _data/sponsors.yml
-  label: Sponsors
 - type: heading
   label: Content
 - type: document
@@ -22,6 +12,16 @@ sections:
 - type: document
   path: about.md
   label: About
+- type: document
+  path: _data/sponsors.yml
+  label: Sponsors
+- type: directory
+  path: _data
+  label: Contact Info
+  create: none
+  match: information.yml
+  templates:
+  - information-yml
 - type: document
   path: team.md
   label: Our Team
