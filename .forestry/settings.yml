@@ -6,37 +6,30 @@ webhook_url:
 sections:
 - type: heading
   label: Content
-- type: jekyll-pages
-  label: Pages
-  create: all
-  templates:
-  - landing-page
-  - page
-- type: directory
-  path: _people
-  label: People
-  create: all
-  match: "*"
-  templates:
-  - person
+- type: document
+  path: index.md
+  label: Home
+  match: "**/*"
+- type: document
+  path: about.md
+  label: About
+  match: "**/*"
+- type: document
+  path: team.md
+  label: Our Team
+  match: "**/*"
 - type: document
   path: _data/sponsors.yml
   label: Sponsors
 - type: document
   path: _data/information.yml
   label: Contact Information
-- type: jekyll-posts
-  label: Posts
+- type: jekyll-pages
+  label: Pages
   create: all
   templates:
-  - post
-- type: directory
-  path: _projects
-  label: Projects
-  create: all
-  match: "*"
-  templates:
-  - project
+  - landing-page
+  - page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

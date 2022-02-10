@@ -35,17 +35,3 @@ fields:
   type: text
   hidden: true
   default: person
-pages:
-- _people/aboli-datey.md
-- _people/brian-kim.md
-- _people/bryan-kao.md
-- _people/garett-davis.md
-- _people/jarvis-yuan.md
-- _people/jordan-collins.md
-- _people/kady-hsu.md
-- _people/lee-keslerwest.md
-- _people/marissa-wade.md
-- _people/matthew-lin.md
-- _people/michael-leong.md
-- _people/raymond-huang.md
-- _people/valerie-haines.md
