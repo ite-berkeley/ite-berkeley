@@ -12,14 +12,14 @@ sections:
 - type: document
   path: about.md
   label: About
+- type: document
+  path: team.md
+  label: Our Team
 - type: directory
   path: _data
   label: Sponsors, Contact Info, Other Variables
   create: none
   match: "**/*"
-- type: document
-  path: team.md
-  label: Our Team
 - type: jekyll-pages
   label: Pages
   create: all
