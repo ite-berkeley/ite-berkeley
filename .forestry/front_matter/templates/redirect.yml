@@ -4,6 +4,12 @@ hide_body: true
 fields:
 - type: text
   name: title
+  label: Link
+  description: "Redirects from ite.berkeley.edu/... (text below replaces the ...)"
+  config:
+    required: true
+- type: text
+  name: metatitle
   label: Title
   description: "Shows in link previews you send on Facebook, Discord, etc."
   default: ""
