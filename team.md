@@ -5,9 +5,10 @@ banner_image: ''
 heading: Our Team
 sub_heading: ''
 layout: landing-page
+template: empty
 textline: ''
 publish_date: '2021-08-23T00:00:00.000+00:00'
-show_staff: true
+show_staff: false
 menu:
   navigation:
     identifier: _about
@@ -19,37 +20,26 @@ menu:
 ---
 # Current Members
 
-<div class="grid grid-cols-3 list-none" markdown="1">
+|Name|Position|
+|:---|:---|
+|**Michael Leong**|President|
+|**Garett Davis**|President|
+|**Aboli Datey**|
+|**Brian Kim**|
+|**Bryan Kao**|
+|**Jarvis Yuan**|
+|**Jordan Collins**|
+|**Kady Hsu**|
+|**Lee Keslerwest**|
+|**Marissa Wade**|
+|**Matthew Lin**|
+|**Raymond Huang**|
+|**Valerie Haines**|
+{:.w-full .table-auto .mt-4 #members}
 
-* **Michael Leong**
-* President
+[See full roster >](https://callink.berkeley.edu/organization/ite){: .pure-button .button-xlarge}
 
-* **Garett Davis**
-* President
-
-* Aboli Datey
-
-* Brian Kim
-
-* Bryan Kao
-
-* Jarvis Yuan
-
-* Jordan Collins
-
-* Kady Hsu
-
-* Lee Keslerwest
-
-* Marissa Wade
-
-* Matthew Lin
-
-* Raymond Huang
-
-* Valerie Haines
-
-</div>
+<br>
 
 # Past Presidents
 
@@ -57,38 +47,42 @@ menu:
 
 **Cal ITE was founded in 2008 by Gabriel Ho, Grace Lin, Kimberly Leung, Marin Odioso, and Mariana Parreiras.**
 
-### Kimberly Leung
 
-2009-2010
+|Name|Year|
+|:---|:---|
+|**Kimberly Leung**|2009-2010|
+|**Thomas Wong**|2010-2012|
+|**Jordan Toy**|2012-2014|
+|**Nathan Chan & Adrian Dias De Rivera**|2014-2015|
+|**Sean Yen & Chris Chin**|2015-2016|
+|**Chris Chin**|2016-2017|
+|**Henry Hammel**|2017-2018|
+|**Marissa Milam**|2018-2019|
+|**Amy Huang**|2019-2020|
+{:.w-full .table-auto .mt-4 #presidents}
 
-### Thomas Wong
 
-2010-2012
-
-### Jordan Toy
-
-2012-2014
-
-### Nathan Chan & Adrian Dias De Rivera
-
-2014-2015
-
-### Sean Yen & Chris Chin
-
-2015-2016
-
-### Chris Chin
-
-2016-2017
-
-### Henry Hammel
-
-2017-2018
-
-### Marissa Milam
-
-2018-2019
-
-### Amy Huang
-
-2019-2020
+<link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" type="text/css">
+<script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest" type="text/javascript"></script>
+<script>
+let datamembers = new simpleDatatables.DataTable("#members", {
+	searchable: false,
+  fixedHeight: true,
+  perPage: 100,
+  perPageSelect: false,
+  labels: {
+    info: "",
+  }
+})
+</script>
+<script>
+let datapresidents = new simpleDatatables.DataTable("#presidents", {
+	searchable: false,
+  fixedHeight: true,
+  perPage: 100,
+  perPageSelect: false,
+  labels: {
+    info: "",
+  }
+})
+</script>

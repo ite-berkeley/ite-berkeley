@@ -1,0 +1,14 @@
+---
+label: default
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  description: "Shows in link previews you send on Facebook, Discord, etc."
+- type: text
+  name: href
+  label: To
+  description: "Redirects to ... (ie. forms.google.com)"
+  config:
+    required: true

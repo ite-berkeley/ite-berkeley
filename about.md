@@ -37,6 +37,8 @@ menu:
 
 <br>
 
+<br>
+
 # What Do We Do?
 
 <div class="grid grid-cols-1 sm:grid-cols-4 gap-4 pb-2">
@@ -115,6 +117,10 @@ menu:
     <p>As part of an effort to build new connections throughout the industry and the Berkeley community, Cal ITE has partnered up with multiple organizations to both provide our members with more opportunities, along with introduce students in other fields to the field of transportation.</p>
   </div>
 </div>
+
+<br>
+
+<br>
 
 # Follow us on Linkedin!
 
