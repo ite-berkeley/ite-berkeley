@@ -17,6 +17,41 @@ menu:
     weight: 3
 ---
 
+# Current Members
+
+<div class="grid grid-cols-3 list-none" markdown="1">
+
+- **Michael Leong**
+- President
+
+
+- **Garett Davis**
+- President
+
+- Aboli Datey
+
+- Brian Kim
+
+- Bryan Kao
+
+- Jarvis Yuan
+
+- Jordan Collins
+
+- Kady Hsu
+
+- Lee Keslerwest
+
+- Marissa Wade
+
+- Matthew Lin
+
+- Raymond Huang
+
+- Valerie Haines
+
+</div>
+
 # Past Presidents
 
 **Below is a list of past presidents whose dedication shaped the club to what it is today.**
