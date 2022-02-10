@@ -12,15 +12,13 @@ sections:
 - type: document
   path: about.md
   label: About
-- type: document
-  path: _data/sponsors.yml
-  label: Sponsors
 - type: directory
   path: _data
-  label: Contact Info
+  label: Sponsors, Contact Info, Other Variables
   create: none
-  match: information.yml
+  match: "**/*"
   templates:
+  - sponsors-yml
   - information-yml
 - type: document
   path: team.md
