@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: Redirects
+  create: all
+  match: "**/*"
+  templates:
+  - redirect
 - type: heading
   label: Content
 - type: document
