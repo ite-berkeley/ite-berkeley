@@ -21,5 +21,10 @@ fields:
   description: Redirects to ... (ie. https://forms.google.com)
   config:
     required: true
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: redirect
 pages:
 - tinyurl.md
