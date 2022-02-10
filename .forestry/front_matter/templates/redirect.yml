@@ -27,5 +27,6 @@ fields:
   hidden: true
   default: redirect
 pages:
+- editme.md
 - figma.md
 - tinyurl.md
