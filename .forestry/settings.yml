@@ -17,9 +17,6 @@ sections:
   label: Sponsors, Contact Info, Other Variables
   create: none
   match: "**/*"
-  templates:
-  - sponsors-yml
-  - information-yml
 - type: document
   path: team.md
   label: Our Team
