@@ -5,7 +5,8 @@ fields:
 - type: text
   name: title
   label: Link
-  description: Redirects from ite.berkeley.edu/... (text below replaces the ...)
+  description: Redirects from ite.berkeley.edu/... (text below replaces the ...) (can't
+    be edited once created)
   config:
     required: true
 - type: text
