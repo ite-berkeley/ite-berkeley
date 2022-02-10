@@ -6,6 +6,9 @@ fields:
   name: title
   label: Title
   description: "Shows in link previews you send on Facebook, Discord, etc."
+  default: ""
+  config:
+    required: false
 - type: text
   name: href
   label: To
