@@ -1,4 +1,5 @@
 ---
+layout: sponsors-yml
 sponsors:
 - title: CA High Speed Rail Level
   card: p-6 md:p-8 bg-yellow-200 rounded-lg
