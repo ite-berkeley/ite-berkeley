@@ -27,4 +27,4 @@ fields:
   hidden: true
   default: redirect
 pages:
-- tinyurl.md
+- tinyurl-1.md
