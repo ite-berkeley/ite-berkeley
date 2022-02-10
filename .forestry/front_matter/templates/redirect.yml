@@ -27,4 +27,5 @@ fields:
   hidden: true
   default: redirect
 pages:
+- figma.md
 - tinyurl.md
