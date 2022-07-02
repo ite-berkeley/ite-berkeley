@@ -2,23 +2,18 @@
 title: Home
 banner_image: ''
 img-carousel:
-- "/uploads/2022/07/02/kimley-horn-visit.jpg"
 - "/uploads/2022/07/02/ite_interview_workshop-3.jpg"
 - "/uploads/2022/07/02/img_2782.jpg"
-- "/uploads/2022/07/02/289888478_10228114794472692_6666397241098951091_n.jpg"
-- "/uploads/2022/07/02/289658018_10228114781872377_272070060473011860_n.jpg"
 - "/uploads/2021/09/21/clear_lake-18.jpg"
 img-gallery:
   columns: "4"
   images:
+  - "/uploads/2022/07/02/ite_interview_workshop-2.jpg"
+  - "/uploads/2022/07/02/ite_interview_workshop-3-1.jpg"
+  - "/uploads/2022/07/02/img_2782.jpg"
+  - "/uploads/2022/07/02/img_1932.jpg"
+  - "/uploads/2022/07/02/290132909_10228118199837824_4704420007636831696_n.jpg"
   - "/uploads/2021/09/21/clear_lake-18-1.jpg"
-  - "/uploads/2021/08/31/IMG_4088.jpg"
-  - "/uploads/2021/08/31/dindin-1.jpg"
-  - "/uploads/2021/08/31/IMG_4213.jpg"
-  - "/uploads/2021/08/31/street.jpg"
-  - "/uploads/2021/08/31/calmidpac.jpg"
-  - "/uploads/2021/08/31/midpac_silly.jpg"
-  - "/uploads/2021/08/31/IMG_4084.jpg"
 layout: landing-page
 heading: CAL ITE
 sub_heading: Institute of Transportation Engineers @ UC Berkeley
