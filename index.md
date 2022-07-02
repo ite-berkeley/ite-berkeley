@@ -2,9 +2,12 @@
 title: Home
 banner_image: ''
 img-carousel:
+- "/uploads/2022/07/02/kimley-horn-visit.jpg"
+- "/uploads/2022/07/02/ite_interview_workshop-3.jpg"
+- "/uploads/2022/07/02/img_2782.jpg"
+- "/uploads/2022/07/02/289888478_10228114794472692_6666397241098951091_n.jpg"
+- "/uploads/2022/07/02/289658018_10228114781872377_272070060473011860_n.jpg"
 - "/uploads/2021/09/21/clear_lake-18.jpg"
-- "/uploads/2021/08/31/withposter.jpg"
-- "/uploads/2021/08/31/DSC_0415.jpg"
 img-gallery:
   columns: "4"
   images:
@@ -65,7 +68,7 @@ show_staff: false
 
 ### Fill out our interest form below!
 
-[Fill out our Interest Form >](/join/){:.pure-button .button-success .button-xlarge}
+[Fill out our Interest Form >](https://forms.gle/jq7h9a55bJBp4GJH9){:.pure-button .button-success .button-xlarge}
 
 <br>
 
@@ -78,3 +81,7 @@ Connect with us on LinkedIn:
 Join our Discord:
 
 [Join Discord >](https://discord.gg/Jd2Zyv3wgy){:.pure-button .button-success .button-xlarge}
+
+Follow us on Instagram:
+
+[Follow Us >](https://www.instagram.com/cal_ite/){:.pure-button .button-success .button-xlarge}
