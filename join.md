@@ -7,7 +7,7 @@ sub_heading: ''
 layout: landing-page
 textline: ''
 publish_date: '2021-08-23T00:00:00.000+00:00'
-show_staff: false
+show_staff: true
 menu:
   navigation:
     identifier: _about
