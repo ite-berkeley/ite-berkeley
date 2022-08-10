@@ -1,8 +1,8 @@
 ---
-title: Join Cal ITE
+title: Join Cal ITE !!!
 date: '2021-08-31T03:00:00.000+00:00'
 banner_image: ''
-heading: 'Join Cal ITE !!!! '
+heading: Join Cal ITE
 sub_heading: ''
 layout: landing-page
 textline: ''
