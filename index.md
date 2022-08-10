@@ -44,7 +44,7 @@ services:
   icon: "/uploads/2021/08/09/operations-icon-flat-style-white-isolated-symbol-black-your-web-site-design-app-ui-simple-process-vector-illustration-156422564.jpg"
 hero_button:
   text: Interest Form >
-  href: "/join/"
+  href: https://docs.google.com/forms/d/e/1FAIpQLSdzcfmFvDoBIlZA-AWKclf3v1l_BS-9bZEThG3abmHlqruQGg/viewform?usp=sf_link
 show_news: false
 show_staff: false
 
