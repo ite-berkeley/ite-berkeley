@@ -17,8 +17,6 @@ menu:
     weight: 3
 
 ---
-# Contact Information
-
 We are happy to answer any questions about our upcoming events and our operations. We will also add you to the newsletter if you are interested.
 
 <br>
