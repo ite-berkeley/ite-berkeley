@@ -63,7 +63,7 @@ show_staff: false
 
 ### Fill out our interest form below!
 
-[Fill out our Interest Form >](https://forms.gle/jq7h9a55bJBp4GJH9){:.pure-button .button-success .button-xlarge}
+[Fill out our Interest Form >](https://docs.google.com/forms/d/e/1FAIpQLSdzcfmFvDoBIlZA-AWKclf3v1l_BS-9bZEThG3abmHlqruQGg/viewform?usp=sf_link){:.pure-button .button-success .button-xlarge}
 
 <br>
 
