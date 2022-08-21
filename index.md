@@ -2,9 +2,13 @@
 title: Home
 banner_image: ''
 img-carousel:
+- "/uploads/2022/08/21/fehr-and-peers-office-visit.jpg"
+- "/uploads/2022/08/21/img_4445.jpg"
+- "/uploads/2022/08/21/kimley-horn-visit.jpg"
 - "/uploads/2022/07/02/ite_interview_workshop-3.jpg"
 - "/uploads/2022/07/02/img_2782.jpg"
 - "/uploads/2021/09/21/clear_lake-18.jpg"
+- "/uploads/2022/08/21/ite_interview_workshop-6.jpg"
 img-gallery:
   columns: "4"
   images:
