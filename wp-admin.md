@@ -5,19 +5,11 @@ publish_date: '2021-08-27T00:00:00.000+00:00'
 show_staff: false
 
 ---
-# How to edit
 
-The source code for the site is at [https://github.com/Transpo-Berkeley](https://github.com/Transpo-Berkeley).
+# WordPress Login
 
-Step 1 is to ask someone to add you to the Transpo-Berkeley GitHub organization.
+This site is no longer based in WordPress. If you're a bot, hi :)
 
-Then, you can edit the site using Forestry at [https://forestry.io](https://forestry.io).
-
-Login using GitHub (create an account if you haven't yet), and then add transpo-berkeley.github.io to Forestry
-
-You are now free to make any changes!
-
-All changes will be synced to [https://ite.berkeley.edu](https://ite.berkeley.edu) via [an automated process :)](https://github.com/Transpo-Berkeley/ite-berkeley/blob/master/.github/workflows/main.yml)
 
 # About the Site
 
