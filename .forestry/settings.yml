@@ -13,8 +13,6 @@ sections:
   templates:
   - redirect
 - type: heading
-  label: Heading
-- type: heading
   label: Content
 - type: document
   path: index.md
@@ -25,6 +23,10 @@ sections:
 - type: document
   path: team.md
   label: Our Team
+- type: document
+  path: join.md
+  label: Join
+  match: "**/*"
 - type: directory
   path: _data
   label: Sponsors, Contact Info, Other Variables
