@@ -23,12 +23,9 @@ fields:
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
-- type: image_gallery
-  name: img-carousel
-  label: Hero Carousel
 - type: field_group
   name: hero_button
-  label: Hero Button
+  label: EDIT THE BIG BUTTON IN THE MIDDLE OF THE PIC GALLERY HERE
   fields:
   - type: text
     name: text
@@ -36,6 +33,9 @@ fields:
   - type: text
     name: href
     label: Link
+- type: image_gallery
+  name: img-carousel
+  label: Hero Carousel
 - type: textarea
   name: textline
   label: Description
