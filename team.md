@@ -22,19 +22,15 @@ menu:
 
 |Name|Position|
 |:---|:---|
-|**Michael Leong**|President|
-|**Garett Davis**|President|
-|**Aboli Datey**|
-|**Brian Kim**|
-|**Bryan Kao**|
-|**Jarvis Yuan**|
-|**Jordan Collins**|
-|**Kady Hsu**|
-|**Lee Keslerwest**|
-|**Marissa Wade**|
-|**Matthew Lin**|
-|**Raymond Huang**|
-|**Valerie Haines**|
+|**Cal Holman**|President|
+|**Liana Tran**|External VP|
+|**Jon Davis**|Internal VP|
+|**Rob Rudy**|Project Manager|
+|**Etaash Patel**|Sr. Project Manager|
+|**Gene Naono**|Corporate Outreach|
+|**Sinan Makdisi**|Treasurer|
+|**Pam Tong**|
+|**Will Pham**|Operations Lead|
 {:.w-full .table-auto .mt-4 #members}
 
 [See full roster >](https://callink.berkeley.edu/organization/ite){: .pure-button .button-xlarge}
@@ -59,6 +55,11 @@ menu:
 |**Henry Hammel**|2017-2018|
 |**Marissa Milam**|2018-2019|
 |**Amy Huang**|2019-2020|
+|**insert here**|2020-2021|
+|**Michael Leong**|2021-2022|
+|**Garett Davis**|2022-2023|
+|**Junzhe Cao**|2023-2024|
+|**Cal Holman**|2024-2025|
 {:.w-full .table-auto .mt-4 #presidents}
 
 
