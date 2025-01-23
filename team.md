@@ -23,14 +23,11 @@ menu:
 |Name|Position|
 |:---|:---|
 |**Cal Holman**|President|
-|**Liana Tran**|External VP|
-|**Jon Davis**|Internal VP|
+|**Liana Tran**|President|
 |**Rob Rudy**|Project Manager|
-|**Etaash Patel**|Sr. Project Manager|
-|**Gene Naono**|Corporate Outreach|
-|**Sinan Makdisi**|Treasurer|
-|**Pam Tong**|
-|**Will Pham**|Operations Lead|
+|**Jon Davis**|Internal VP|
+|**Sricharan Samudrala**|External VP|
+
 {:.w-full .table-auto .mt-4 #members}
 
 [See full roster >](https://callink.berkeley.edu/organization/ite){: .pure-button .button-xlarge}
@@ -54,12 +51,11 @@ menu:
 |**Chris Chin**|2016-2017|
 |**Henry Hammel**|2017-2018|
 |**Marissa Milam**|2018-2019|
-|**Amy Huang**|2019-2020|
-|**insert here**|2020-2021|
+|**Amy Huang**|2019-2021|
 |**Michael Leong**|2021-2022|
 |**Garett Davis**|2022-2023|
 |**Junzhe Cao**|2023-2024|
-|**Cal Holman**|2024-2025|
+|**Cal Holman & Liana Tran**|2024-2025|
 {:.w-full .table-auto .mt-4 #presidents}
 
 
