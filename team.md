@@ -22,11 +22,12 @@ menu:
 
 |Name|Position|
 |:---|:---|
-|**Cal Holman**|President|
-|**Liana Tran**|President|
-|**Rob Rudy**|Project Manager|
-|**Jon Davis**|Internal VP|
-|**Sricharan Samudrala**|External VP|
+|**Claire Holland**|President|
+|**Jin Lee**|Vice President|
+|**Catherine Li**|Internal Vice President|
+|**Ethan Holl**|Project Manager|
+|**Austin Carroll**|Junior Project Manager|
+|**Danny Nguyen**|Junior Project Manager|
 
 {:.w-full .table-auto .mt-4 #members}
 
