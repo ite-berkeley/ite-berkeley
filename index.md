@@ -77,7 +77,7 @@ _template: landing_page
 
 ### Fill out our interest form below!
 
-[Fill out our Interest Form >](https://docs.google.com/forms/d/e/1FAIpQLSdzcfmFvDoBIlZA-AWKclf3v1l_BS-9bZEThG3abmHlqruQGg/viewform?usp=sf_link){:.pure-button .button-success .button-xlarge}
+[Fill out our Interest Form >](https://docs.google.com/forms/d/e/1FAIpQLSc6YlQQVWXVBnONA69gzyiJsl07GmhW5oM4gEGbh4LrxnHCFQ/viewform){:.pure-button .button-success .button-xlarge}
 
 <br>
 
@@ -89,7 +89,7 @@ Connect with us on LinkedIn:
 
 Join our Discord:
 
-[Join Discord >](https://discord.gg/Jd2Zyv3wgy){:.pure-button .button-success .button-xlarge}
+[Join Discord >](https://discord.gg/jyzrp7Ha44){:.pure-button .button-success .button-xlarge}
 
 Follow us on Instagram:
 
