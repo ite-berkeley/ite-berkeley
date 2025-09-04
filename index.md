@@ -55,7 +55,7 @@ services:
 hero_button:
   text: Interest Form >
   href: >-
-    https://docs.google.com/forms/d/e/1FAIpQLSdzcfmFvDoBIlZA-AWKclf3v1l_BS-9bZEThG3abmHlqruQGg/viewform?usp=sf_link
+    https://docs.google.com/forms/d/e/1FAIpQLSc6YlQQVWXVBnONA69gzyiJsl07GmhW5oM4gEGbh4LrxnHCFQ/viewform
 show_news: false
 show_staff: false
 _template: landing_page
