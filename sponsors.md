@@ -11,24 +11,7 @@ We're always looking for sponsorship opportunities! If you would like to connect
 
 [Contact Us](/contact){: .pure-button .button-success .button-xlarge}
 
-<br>
-
-<object
-  data="{{ site.data.sponsors.sponsortiers }}#toolbar=0"
-  type="application/pdf"
-  width="100%"
-  class="mb-4"
-  style="height:130vw;max-height:1024px;">
-<canvas id="pdfviewer" markdown="1" style="width:100%;height:130vw;max-height:1024px;">
-
-Your browser doesn't support pdf's. Scroll down for download links.
-
-</canvas>
-</object>
-
-[Download Flyer]({{ site.data.sponsors.sponsortiers }}){: .pure-button .button-success .button-xlarge}
-
-<br>
+[Sponsorship Packet](https://drive.google.com/file/d/1D19Z9obxoUqnFJmh-8Il4FkY60rTl5-Z/view?usp=sharing){: .pure-button .button-success .button-xlarge}
 
 {% include sponsors.html %}
 
