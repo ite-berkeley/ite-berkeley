@@ -27,7 +27,7 @@ menu:
 |**Catherine Li**|Internal Vice President|
 |**Ethan Holl**|Project Manager|
 |**Austin Carroll**|Junior Project Manager|
-|**Danny Nguyen**|Junior Project Manager|
+|**April Nguyen**|Junior Project Manager|
 
 {:.w-full .table-auto .mt-4 #members}
 
