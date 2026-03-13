@@ -25,6 +25,7 @@ menu:
 |**Claire Holland**|President|
 |**Jin Lee**|Vice President|
 |**Catherine Li**|Internal Vice President|
+|**Jason Tan**|Internal Vice President|
 |**Ethan Holl**|Project Manager|
 |**Austin Carroll**|Junior Project Manager|
 |**April Nguyen**|Junior Project Manager|
