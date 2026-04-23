@@ -5,11 +5,6 @@ navigation:
     # target: true
     # children:
 
-  - title: About
-    url: "/about/"
-    # target: true
-    # children:
-
   - title: Our Team
     url: "/team/"
     # target: true
