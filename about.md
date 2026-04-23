@@ -39,7 +39,7 @@ menu:
 
 <br>
 
-# What Do We Do?
+# What We Do
 
 <div class="grid grid-cols-1 sm:grid-cols-4 gap-4 pb-2">
   <img src="/uploads/2021/08/31/IMG_7438.jpg" class="py-4" />
